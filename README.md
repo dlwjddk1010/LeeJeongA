@@ -1,10 +1,10 @@
-# 신입 개발자 이정아입니다.
-👩🏻‍💻 코리아it JAVA 기반 풀스택 개발자 양성과정 수료<br>
+# 👩🏻‍💻 신입 개발자 이정아입니다.
+- 코리아it JAVA 기반 풀스택 개발자 양성과정 수료<br>
 
-📚 공부 블로그 : https://blog.naver.com/dlwjddk1010<br>
-🖥️ 포트폴리오 : https://dlwjddk.notion.site/Lee-Jeong-A-165c0e8adefa4f22b2a33b0838b26620
-
-<div><h1>📚 STACKS</h1></div>
+- 📚 공부 블로그 : https://blog.naver.com/dlwjddk1010<br>
+- 🖥️ 포트폴리오 : https://dlwjddk.notion.site/Lee-Jeong-A-165c0e8adefa4f22b2a33b0838b26620
+<br><br>
+<div><h1>⚒️ STACKS</h1></div>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
