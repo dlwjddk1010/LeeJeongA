@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=ced7ed&height=100&section=header&text=👩🏻‍💻신입%20개발자%20이정아입니다.&fontSize=40&animation=fadeIn&fontColor=fffbf4&fontAlign=28)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=ced7ed&height=100&section=header&text=👩🏻‍💻신입%20개발자%20이정아입니다.&fontSize=40&animation=fadeIn&fontColor=b2aede&fontAlign=28)
 - 코리아it JAVA 기반 풀스택 개발자 양성과정 수료<br>
 
 - 📚 공부 블로그 : https://blog.naver.com/dlwjddk1010<br>
