@@ -3,7 +3,7 @@
 
 - 📚 공부 블로그 : https://blog.naver.com/dlwjddk1010<br>
 - 🖥️ 포트폴리오 : https://dlwjddk.notion.site/Lee-Jeong-A-165c0e8adefa4f22b2a33b0838b26620
-- repository - NYANGSINSA(ver1, ver2)의 README.md에는 각 프로젝트의 기본적인 설명과 시연 영상이 첨부되어 있습니다 :D
+- Repositories - NYANGSINSA(ver1, ver2)의 README.md에는 각 프로젝트의 기본적인 설명과 시연 영상이 첨부되어 있습니다 :D
 <br><br>
 <div><h1>⚒️ STACKS</h1></div>
 
